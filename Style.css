@@ -1,0 +1,9 @@
+body {
+    padding: 25px;
+    color: black;
+    font-size: 25px;
+  }
+.dark-mode {
+    background-color: rgba(0, 0, 0, 0.836);
+    color: white;
+  }
